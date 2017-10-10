@@ -1,6 +1,6 @@
 First line of code
 Second line of code
-third line of code
+Third line of code
 fourth line of code
 fifth line of code
 sixth line
