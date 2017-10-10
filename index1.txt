@@ -2,4 +2,8 @@ hai
 hello
 big big namaste
 vanakkam
+<<<<<<< HEAD
 jai matha di
+=======
+sat sri akaal
+>>>>>>> branch1
